@@ -9,4 +9,3 @@ Excel : Generates reports and performs data analysis using MS Excel.
 
 Power BI : Develops interactive dashboards using  Power BI.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sindhu27ss)](https://github.com/anuraghazra/github-readme-stats)
