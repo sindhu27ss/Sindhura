@@ -9,3 +9,9 @@ Excel : Generates reports and performs data analysis using MS Excel.
 
 Power BI : Develops interactive dashboards using  Power BI.
 
+⚙️Skills
+Language: SQL, Python
+Database: PostgreSQL, MySQL
+Visualization: Power BI
+Spreadsheet: MS Excel
+
